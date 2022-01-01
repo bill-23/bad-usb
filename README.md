@@ -1,5 +1,6 @@
 # Bad USB v1.1
 ---
+![Bad USB Installed](/Bad-usb-Assem.jpg)
 
 Ducky Script intrepter/executer for Arduino boards. 
 
